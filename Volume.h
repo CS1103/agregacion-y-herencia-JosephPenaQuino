@@ -2,6 +2,7 @@
 #define AGREGACION_Y_HERENCIA_JOSEPHPENAQUINO_VOLUME_H
 
 #include <string>
+#include <iostream>
 
 class Volume
 {
