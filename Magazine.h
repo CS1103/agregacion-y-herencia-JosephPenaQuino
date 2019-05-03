@@ -4,7 +4,7 @@
 
 #include "Volume.h"
 
-class Magazine : Volume
+class Magazine : public Volume
 {
 private:
     int num_magazines;
