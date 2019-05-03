@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="agregacion_y_herencia_JosephPenaQuino"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/joseph/Documents/s2k191/POO2/Assignments/agregacion-y-herencia-JosephPenaQuino/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/joseph/Documents/s2k191/POO2/Assignments/agregacion-y-herencia-JosephPenaQuino/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/joseph/Documents/s2k191/POO2/Assignments/agregacion-y-herencia-JosephPenaQuino/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/joseph/Documents/s2k191/POO2/Assignments/agregacion-y-herencia-JosephPenaQuino/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/joseph/Documents/s2k191/POO2/Assignments/agregacion-y-herencia-JosephPenaQuino/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/joseph/Documents/s2k191/POO2/Assignments/agregacion-y-herencia-JosephPenaQuino/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/joseph/Documents/s2k191/POO2/Assignments/agregacion-y-herencia-JosephPenaQuino/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/joseph/Documents/s2k191/POO2/Assignments/agregacion-y-herencia-JosephPenaQuino/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/joseph/Documents/s2k191/POO2/Assignments/agregacion-y-herencia-JosephPenaQuino/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/joseph/Documents/s2k191/POO2/Assignments/agregacion-y-herencia-JosephPenaQuino/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="agregacion_y_herencia_JosephPenaQuino">
+				<Option output="/home/joseph/Documents/s2k191/POO2/Assignments/agregacion-y-herencia-JosephPenaQuino/cmake-build-debug/agregacion_y_herencia_JosephPenaQuino" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/joseph/Documents/s2k191/POO2/Assignments/agregacion-y-herencia-JosephPenaQuino/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/joseph/Documents/s2k191/POO2/Assignments/agregacion-y-herencia-JosephPenaQuino/cmake-build-debug/Makefile&quot;  VERBOSE=1 agregacion_y_herencia_JosephPenaQuino"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/joseph/Documents/s2k191/POO2/Assignments/agregacion-y-herencia-JosephPenaQuino/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/joseph/Documents/s2k191/POO2/Assignments/agregacion-y-herencia-JosephPenaQuino/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/joseph/Documents/s2k191/POO2/Assignments/agregacion-y-herencia-JosephPenaQuino/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="agregacion_y_herencia_JosephPenaQuino/fast">
+				<Option output="/home/joseph/Documents/s2k191/POO2/Assignments/agregacion-y-herencia-JosephPenaQuino/cmake-build-debug/agregacion_y_herencia_JosephPenaQuino" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/joseph/Documents/s2k191/POO2/Assignments/agregacion-y-herencia-JosephPenaQuino/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/joseph/Documents/s2k191/POO2/Assignments/agregacion-y-herencia-JosephPenaQuino/cmake-build-debug/Makefile&quot;  VERBOSE=1 agregacion_y_herencia_JosephPenaQuino/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/joseph/Documents/s2k191/POO2/Assignments/agregacion-y-herencia-JosephPenaQuino/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/joseph/Documents/s2k191/POO2/Assignments/agregacion-y-herencia-JosephPenaQuino/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/joseph/Documents/s2k191/POO2/Assignments/agregacion-y-herencia-JosephPenaQuino/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/joseph/Documents/s2k191/POO2/Assignments/agregacion-y-herencia-JosephPenaQuino/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/joseph/Documents/s2k191/POO2/Assignments/agregacion-y-herencia-JosephPenaQuino/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/joseph/Documents/s2k191/POO2/Assignments/agregacion-y-herencia-JosephPenaQuino/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/joseph/Documents/s2k191/POO2/Assignments/agregacion-y-herencia-JosephPenaQuino/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/joseph/Documents/s2k191/POO2/Assignments/agregacion-y-herencia-JosephPenaQuino/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/joseph/Documents/s2k191/POO2/Assignments/agregacion-y-herencia-JosephPenaQuino/Book.cpp">
+			<Option target="agregacion_y_herencia_JosephPenaQuino"/>
+		</Unit>
+		<Unit filename="/home/joseph/Documents/s2k191/POO2/Assignments/agregacion-y-herencia-JosephPenaQuino/Book.h">
+			<Option target="agregacion_y_herencia_JosephPenaQuino"/>
+		</Unit>
+		<Unit filename="/home/joseph/Documents/s2k191/POO2/Assignments/agregacion-y-herencia-JosephPenaQuino/Library.cpp">
+			<Option target="agregacion_y_herencia_JosephPenaQuino"/>
+		</Unit>
+		<Unit filename="/home/joseph/Documents/s2k191/POO2/Assignments/agregacion-y-herencia-JosephPenaQuino/Library.h">
+			<Option target="agregacion_y_herencia_JosephPenaQuino"/>
+		</Unit>
+		<Unit filename="/home/joseph/Documents/s2k191/POO2/Assignments/agregacion-y-herencia-JosephPenaQuino/Magazine.cpp">
+			<Option target="agregacion_y_herencia_JosephPenaQuino"/>
+		</Unit>
+		<Unit filename="/home/joseph/Documents/s2k191/POO2/Assignments/agregacion-y-herencia-JosephPenaQuino/Magazine.h">
+			<Option target="agregacion_y_herencia_JosephPenaQuino"/>
+		</Unit>
+		<Unit filename="/home/joseph/Documents/s2k191/POO2/Assignments/agregacion-y-herencia-JosephPenaQuino/Volume.cpp">
+			<Option target="agregacion_y_herencia_JosephPenaQuino"/>
+		</Unit>
+		<Unit filename="/home/joseph/Documents/s2k191/POO2/Assignments/agregacion-y-herencia-JosephPenaQuino/Volume.h">
+			<Option target="agregacion_y_herencia_JosephPenaQuino"/>
+		</Unit>
+		<Unit filename="/home/joseph/Documents/s2k191/POO2/Assignments/agregacion-y-herencia-JosephPenaQuino/main.cpp">
+			<Option target="agregacion_y_herencia_JosephPenaQuino"/>
+		</Unit>
+		<Unit filename="/home/joseph/Documents/s2k191/POO2/Assignments/agregacion-y-herencia-JosephPenaQuino/main_test.cpp">
+			<Option target="agregacion_y_herencia_JosephPenaQuino"/>
+		</Unit>
+		<Unit filename="/home/joseph/Documents/s2k191/POO2/Assignments/agregacion-y-herencia-JosephPenaQuino/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
